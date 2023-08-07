@@ -1,0 +1,20 @@
+.next= The contain all necessary chunk file,and when need any chunk according to the user
+request.Chunk file is create or convert that we created file pages,products,animations,etc.
+
+app= app directory is contain all pages,or functionality.
+
+app in layout.js=This is the main and the next app run base on the file.It is the masterLayout.We will create as much pages, functionality all file are contained the layout as a children.
+
+app in pages.js=The file like website home page.This is the first page for display user data.If we want to create more page like this we can do It
+app in global.css=The file contain some statice css for give next app look like better.
+public=The public directory contain some statice assets like website logo, website video ete like this.
+
+.gitignore=Which file will be ignored github the file name contain in this file.scilicet I write the node_modules then the github ignored the file when I push in the github.
+
+jsconfig.js=The file auto generate for indicating Which path will be run the next application .
+
+next.config.js= The file auto generate for customization the next application .The next application and how to run and  how will be the next app behaves, we can fixed in the config file.
+
+package.json=The file implementation for how to website run and which path is use as well as how many dependencies are implement in the website all are contained  and run with the file.like If you want to install tailwind then the tailwind will be installed in this file and run using the file.
+
+
